@@ -1,0 +1,21 @@
+*{
+    font-family:'Courier New','Brush Script MT',monospace;
+}
+
+html{
+    background-color: cornsilk;
+}
+
+.home li{
+    background-color: aquamarine;
+    margin: 10px;
+}
+
+img{
+    border: 10px solid;
+}
+
+ol li{
+    font-size: large;
+    font-weight: bold;
+}
