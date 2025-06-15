@@ -1,3 +1,3 @@
 # odin-recipes
 
-Trying to revises my HTML
+Trying to revise and improve my front-end skills
